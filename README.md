@@ -2,12 +2,12 @@
 **Project Overview: 👨💻 ** This project involved designing and developing a personal portfolio website to showcase my skills, projects, and experience as a [your profession, e.g., web developer, designer]. The primary goal was to create a professional and visually appealing platform that effectively represents my capabilities and achievements.
 
 ** 🖥 Key Features:**
-1.	User Registration and Authentication:
-2.	Clear Value Proposition:
-3.	Concise and Relevant Content
-4.	Services Overview:
-5.	 Responsive Design:
-6.	Social Proof:
+1.	Clean and Intuitive Design:
+2.	Personal Branding:
+3.	About Me/Us Section:
+4.  Skills and Expertise:
+5.	Responsive Design:
+6.	Social Media Integration:
 7.	Contact Information:
 
 Technologies Used:
